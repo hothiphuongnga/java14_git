@@ -18,3 +18,6 @@
     - `git push -u origin <ten_branch>` : chạy lần đầu tiên của branch
     - `git push` : chạy những lần còn lại
 
+## Đăng nhập
+- Username: admin
+- Password: 123456
