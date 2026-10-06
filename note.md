@@ -30,3 +30,8 @@
 - Password: 123456
 - Phone: 0999999999
 - Email: admin@gmail.com
+
+## Trang Home
+- DS chức năng
+- Header
+- Sản phẩm bán chạy
