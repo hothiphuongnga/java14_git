@@ -21,3 +21,6 @@
 ## Đăng nhập
 - Username: admin
 - Password: 123456
+
+## Quên mật khẩu
+- quên pass
